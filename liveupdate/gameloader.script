@@ -1,0 +1,19 @@
+local function load_game(self, game_proxy)
+	if self.current_game then
+		msg.post(self.current_game, "unload")
+	end
+	self.current_game = game_proxy
+	msg.post(self.current_game, "async_load")
+end
+
+function init(self)
+	self.current_game = nil
+end
+
+function on_message(self, message_id, message, sender)
+	if message_id == hash("play_cards") then
+		load_game(self, "#cardsproxy")
+	elseif message_id == hash("proxy_loaded") then
+		msg.post(sender, "enable")
+	end
+end

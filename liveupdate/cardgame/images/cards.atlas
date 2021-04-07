@@ -1,0 +1,215 @@
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpades10.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpades2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpades3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpades4.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpades5.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpades6.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpades7.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpades8.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpades9.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpadesA.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpadesJ.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpadesK.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardSpadesQ.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubs2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubs3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubs4.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubs5.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubs6.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubs7.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubs8.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubs9.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubsA.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubsJ.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubsK.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubsQ.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardClubs10.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamonds10.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamonds2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamonds3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamonds4.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamonds5.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamonds6.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamonds7.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamonds8.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamonds9.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamondsA.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamondsJ.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamondsK.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardDiamondsQ.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardJoker.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHearts10.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHearts2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHearts3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHearts4.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHearts5.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHearts6.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHearts7.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHearts8.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHearts9.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHeartsA.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHeartsJ.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHeartsK.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/liveupdate/cardgame/images/cards/cardHeartsQ.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0

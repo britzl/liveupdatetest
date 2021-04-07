@@ -1,0 +1,23 @@
+local liveupdate = require "loader.liveupdate"
+
+function init(self)
+	liveupdate.init("http://localhost:8000/files")
+
+	liveupdate.update_manifest(function(ok)
+		if not ok then
+			print("Unable to update manifest")
+			return
+		end
+		liveupdate.load_missing_resources("#liveupdateproxy", function(progress)
+			if progress.done and progress.failed == 0 then
+				msg.post("#liveupdateproxy", "async_load")
+			end
+		end)
+	end)
+end
+
+function on_message(self, message_id, message, sender)
+	if message_id == hash("proxy_loaded") then
+		msg.post(sender, "enable")
+	end
+end

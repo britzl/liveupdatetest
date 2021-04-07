@@ -1,0 +1,5 @@
+[liveupdate]
+mode = Zip
+zip-filepath = out
+publickey = liveupdatetest-public.der
+privatekey = liveupdatetest-private.der
