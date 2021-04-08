@@ -8,6 +8,6 @@ Thumbs.db
 .project
 .cproject
 builtins
-server
+/server/files
 out
 bob.jar
