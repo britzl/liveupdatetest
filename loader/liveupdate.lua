@@ -7,7 +7,7 @@ local function log(...)
 end
 
 local function get_metadata_filename()
-	return sys.get_save_file(sys.get_config("project.title"), "liveupdate_meta")
+	return sys.get_save_file(sys.get_config_string("project.title"), "liveupdate_meta")
 end
 
 local function load_metadata()
